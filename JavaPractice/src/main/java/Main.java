@@ -54,10 +54,5 @@ public class Main {
             default:
                 System.out.println("Tu variable esta mal.");
         }
-
-
-
-
-
     }
 }
