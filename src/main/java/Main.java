@@ -74,6 +74,7 @@ public class Main {
         System.out.println("Mi edad es: " + persona.getEdad());
         System.out.println("Mi nombre es: " + persona.getNombre());
         System.out.println("Mi numero de telefono es: " + persona.getTelefono());
+        System.out.println("Mi edad es: " + persona.getEdad());
 
     }
 
